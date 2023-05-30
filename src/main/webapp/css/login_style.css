@@ -1,0 +1,16 @@
+
+.login_form{
+    background-color: #e6e6e6;
+    padding : 0px 50px 50px 50px;
+    border: red 1px solid; 
+    border-radius: 15px;
+    opacity: 0.9;
+}
+
+
+.btn-primary{
+    width: 99%;
+}
+
+
+

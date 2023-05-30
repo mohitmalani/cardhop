@@ -1,0 +1,94 @@
+
+#list{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  margin-top: 5rem;
+  padding: 1rem 1rem 3rem;
+}
+
+#list .list-view{
+  border-radius:5px;
+  border: 1px solid #00bfff;
+  background-color: #ffffff;
+  padding: 0rem 0em 3rem;
+}
+
+#list .list_heading{
+   background-color:#3498db ;
+   
+}
+#list .list_heading h3{
+    color: #ffffff;
+    font-size: 1.5rem;
+    Font-weight: 700;
+    letter-spacing: .1rem;
+    padding: .5rem 1rem .5rem;
+}
+
+#list .form-control{  
+    margin: .2rem 5rem .1rem;
+    border-radius: 2rem;
+    border: 2px solid #00bfff;
+}
+
+#list .form-row button{
+  width: 5rem;
+  border-radius: 1rem;
+  border: none;
+  margin-top: .3rem;
+  margin-left: -.8rem;
+  background-color: white; 
+  color: black;  
+  padding: 0px;
+  font-size: 1.5rem;
+}
+
+#list  form button{
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  background-color: #04dabc;
+}
+
+#list form button .fa.fa-trash{
+  font-size: 1.5rem;
+  color: blue;
+}
+
+#list form .fa.fa-edit{
+  font-size: 1.2rem;
+  color: blue;
+}
+
+#list form .fa.fa-trash{
+  font-size: 1.2rem;
+  color: red;
+}
+
+#list form span{
+  font-size: 1rem;
+  color: green;
+}
+
+#list form a{
+  padding: 0px;
+  margin: 0px;  
+}
+
+#list form table thead tr{
+  background-color: #04dabc;
+  padding: 0px!important;
+}
+
+#list form table thead tr th{
+  color: white;
+  font-size: 1rem;
+  text-align: center;
+  padding: .5rem 0 .5rem!important; 
+}
+
+#list form table tbody tr td{
+  font-size: 1rem;
+  text-align: center;
+}

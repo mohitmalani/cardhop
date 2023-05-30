@@ -1,0 +1,84 @@
+
+#contact{
+  margin: 0;
+  padding: 0;
+  background-color: #9FD7FB;
+  margin-top: 5rem;
+  padding: 3rem 2rem 5rem;
+}
+
+#contact .contact-form{
+  border-radius:2px;
+  background-color: white;
+  padding: 3rem 10rem 3rem;
+}
+#contact .contact-form h3{
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+
+#contact .form input[type=text]{
+  outline: none;
+  border: none;
+  background-color: none;
+  border-bottom: 2px solid #ccc;
+  border-radius: 0px;
+  width: 25.9rem;
+  padding-left: 0px;
+  font-size: .9rem;
+}
+
+#contact .form textarea,#contact .form input[type=email]{
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  border-radius: 0px;
+  width: 53.8rem;
+  padding-left: 0px;
+  font-size: .9rem;
+}
+
+#contact .form-control{
+  color: black !important;
+}
+
+#contact .form input[type=text]:focus,#contact .form input[type=email]:focus, 
+#contact .form textarea:focus{
+    box-shadow: none;
+    border-bottom: 2px solid #9FD7FB;
+}
+
+
+#contact .form .form-row{
+  padding-left: .9rem;
+}
+
+
+#contact .form-group label{
+  font-size: .8rem;
+}
+
+#contact .form [class*=form-group]{
+  margin: 0 0 2rem;
+}
+
+#contact .form label{
+  margin-bottom: 0px;
+}
+
+#contact .form input,#contact .form textarea{
+  margin-top:0px;
+  padding-top: 0px;
+}
+
+
+#contact .form .btn-primary{ 
+  background-color: #ff1a1a;
+  border: none;
+  border-radius: .9rem;
+  font-size: 1.2rem;
+  margin: -2rem .9rem 0;
+  padding: .3rem 1.5rem .3rem;
+  width: auto;
+}
